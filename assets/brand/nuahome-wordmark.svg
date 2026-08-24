@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="128" viewBox="0 0 720 128" role="img" aria-label="NuaHome">
+    <g transform="translate(8 8) scale(.42)"><defs><linearGradient id="nuahome-paint" x1="38" y1="64" x2="218" y2="192" gradientUnits="userSpaceOnUse"><stop stop-color="#078B91"/><stop offset="1" stop-color="#16A1A4"/></linearGradient></defs>
+    <path d="M119 78C101 57 70 55 49 72C23 93 19 133 38 160C55 184 88 191 111 173L134 154" fill="none" stroke="url(#nuahome-paint)" stroke-width="24" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M137 78L114 102M137 78C155 57 186 55 207 72C233 93 237 133 218 160C201 184 168 191 145 173L122 151" fill="none" stroke="url(#nuahome-paint)" stroke-width="24" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M73 128C87 111 105 102 128 102C151 102 169 111 183 128C169 145 151 154 128 154C105 154 87 145 73 128Z" fill="none" stroke="url(#nuahome-paint)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="128" cy="128" r="13" fill="url(#nuahome-paint)"/></g>
+    <text x="132" y="64" fill="#078B91" font-family="Georgia,Times New Roman,serif" font-size="50" font-weight="700">NuaHome</text>
+    <text x="134" y="94" fill="#0A234E" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">AWARENESS</text></svg>

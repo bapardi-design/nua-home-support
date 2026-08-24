@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="NuaInforms mark"><defs><linearGradient id="nuainforms-paint" x1="38" y1="64" x2="218" y2="192" gradientUnits="userSpaceOnUse"><stop stop-color="#F2A500"/><stop offset="1" stop-color="#FFB914"/></linearGradient></defs>
+    <path d="M119 78C101 57 70 55 49 72C23 93 19 133 38 160C55 184 88 191 111 173L134 154" fill="none" stroke="url(#nuainforms-paint)" stroke-width="24" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M137 78L114 102M137 78C155 57 186 55 207 72C233 93 237 133 218 160C201 184 168 191 145 173L122 151" fill="none" stroke="url(#nuainforms-paint)" stroke-width="24" stroke-linecap="butt" stroke-linejoin="round"/>
+    <circle cx="91" cy="105" r="5" fill="url(#nuainforms-paint)"/><path d="M108 105H167" fill="none" stroke="url(#nuainforms-paint)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="91" cy="130" r="5" fill="url(#nuainforms-paint)"/><path d="M108 130H167" fill="none" stroke="url(#nuainforms-paint)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="91" cy="155" r="5" fill="url(#nuainforms-paint)"/><path d="M108 155H167" fill="none" stroke="url(#nuainforms-paint)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg>

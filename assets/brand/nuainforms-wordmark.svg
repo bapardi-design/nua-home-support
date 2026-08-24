@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="128" viewBox="0 0 720 128" role="img" aria-label="NuaInforms">
+    <g transform="translate(8 8) scale(.42)"><defs><linearGradient id="nuainforms-paint" x1="38" y1="64" x2="218" y2="192" gradientUnits="userSpaceOnUse"><stop stop-color="#F2A500"/><stop offset="1" stop-color="#FFB914"/></linearGradient></defs>
+    <path d="M119 78C101 57 70 55 49 72C23 93 19 133 38 160C55 184 88 191 111 173L134 154" fill="none" stroke="url(#nuainforms-paint)" stroke-width="24" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M137 78L114 102M137 78C155 57 186 55 207 72C233 93 237 133 218 160C201 184 168 191 145 173L122 151" fill="none" stroke="url(#nuainforms-paint)" stroke-width="24" stroke-linecap="butt" stroke-linejoin="round"/>
+    <circle cx="91" cy="105" r="5" fill="url(#nuainforms-paint)"/><path d="M108 105H167" fill="none" stroke="url(#nuainforms-paint)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="91" cy="130" r="5" fill="url(#nuainforms-paint)"/><path d="M108 130H167" fill="none" stroke="url(#nuainforms-paint)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="91" cy="155" r="5" fill="url(#nuainforms-paint)"/><path d="M108 155H167" fill="none" stroke="url(#nuainforms-paint)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="132" y="64" fill="#F2A500" font-family="Georgia,Times New Roman,serif" font-size="50" font-weight="700">NuaInforms</text>
+    <text x="134" y="94" fill="#0A234E" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">UNDERSTANDING</text></svg>

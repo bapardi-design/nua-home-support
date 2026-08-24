@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="NuaCares mark"><defs><linearGradient id="nuacares-paint" x1="38" y1="64" x2="218" y2="192" gradientUnits="userSpaceOnUse"><stop stop-color="#318C32"/><stop offset="1" stop-color="#4BA743"/></linearGradient></defs>
+    <path d="M119 78C101 57 70 55 49 72C23 93 19 133 38 160C55 184 88 191 111 173L134 154" fill="none" stroke="url(#nuacares-paint)" stroke-width="24" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M137 78L114 102M137 78C155 57 186 55 207 72C233 93 237 133 218 160C201 184 168 191 145 173L122 151" fill="none" stroke="url(#nuacares-paint)" stroke-width="24" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M128 148L101 122C89 109 97 91 112 91C121 91 126 98 128 104C130 98 135 91 144 91C159 91 167 109 155 122L128 148Z" fill="url(#nuacares-paint)"/>
+    <path d="M78 153C91 153 101 158 112 172M178 153C165 153 155 158 144 172M78 153C81 138 89 130 100 126M178 153C175 138 167 130 156 126" fill="none" stroke="url(#nuacares-paint)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg>

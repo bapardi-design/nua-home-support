@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="NuaCreates mark"><defs><linearGradient id="nuacreates-paint" x1="38" y1="64" x2="218" y2="192" gradientUnits="userSpaceOnUse"><stop stop-color="#E80958"/><stop offset="1" stop-color="#F23C77"/></linearGradient></defs>
+    <path d="M119 78C101 57 70 55 49 72C23 93 19 133 38 160C55 184 88 191 111 173L134 154" fill="none" stroke="url(#nuacreates-paint)" stroke-width="24" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M137 78L114 102M137 78C155 57 186 55 207 72C233 93 237 133 218 160C201 184 168 191 145 173L122 151" fill="none" stroke="url(#nuacreates-paint)" stroke-width="24" stroke-linecap="butt" stroke-linejoin="round"/>
+    <path d="M128 168C129 145 135 122 148 100M128 168C117 147 106 136 92 129" fill="none" stroke="url(#nuacreates-paint)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M148 100C151 84 163 77 177 78C176 92 167 103 148 100Z" fill="url(#nuacreates-paint)"/>
+    <path d="M93 129C81 120 80 107 84 96C99 99 107 110 93 129Z" fill="url(#nuacreates-paint)"/>
+    <circle cx="134" cy="122" r="5" fill="url(#nuacreates-paint)"/></svg>

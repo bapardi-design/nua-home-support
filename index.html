@@ -3,48 +3,68 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vesta Home Companion Support</title>
-  <link rel="stylesheet" href="legal.css">
+  <meta name="description" content="NuaHome brings care, learning, family rhythm and the practical life of a home into one thoughtful place.">
+  <title>NuaHome | A home that understands its people</title>
+  <link rel="icon" href="assets/brand/nuahome-icon-192.png">
+  <link rel="stylesheet" href="home.css">
 </head>
 <body>
-<main>
-  <header><span class="mark">V</span><span><b>Vesta Home</b><span>Companion support</span></span></header>
-  <h1>How can we help?</h1>
-  <p>Vesta Home Companion is the private mobile extension of a Vesta Home hub and, where enabled, Vesta Social private circles. The app can also be explored without pairing by choosing <b>Explore demo</b> on its first screen.</p>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="NuaHome home"><img src="assets/brand/nuahome-mark.svg" alt=""><span>NuaHome</span></a>
+    <nav aria-label="Primary navigation"><a href="#family">Family life</a><a href="#care">Care</a><a href="#learning">Learning</a><a href="#trust">Trust</a></nav>
+    <div class="header-actions"><a class="text-link" href="https://app.nua-home.com/?entry=home">Sign in</a><a class="button button-small" href="https://app.nua-home.com/?entry=home">Open NuaHome</a></div>
+  </header>
 
-  <h2>Connect a phone</h2>
-  <ol>
-    <li>Open Settings on the Vesta Home hub.</li>
-    <li>Choose the household member who owns the phone.</li>
-    <li>Create a companion QR code.</li>
-    <li>Open Vesta on the phone, tap <b>Scan Vesta QR</b>, and scan the code.</li>
-  </ol>
-  <p>Pairing identifies the phone but does not automatically enable location, microphone, camera or screen sharing.</p>
+  <main id="top">
+    <section class="hero">
+      <img class="hero-image" src="assets/images/nuahome-family-morning.png" alt="A family sharing a calm morning at home">
+      <div class="hero-shade"></div>
+      <div class="hero-copy">
+        <p class="eyebrow">A more present home</p>
+        <h1>NuaHome</h1>
+        <p class="hero-lead">The practical intelligence that helps a family stay close to what matters: the rhythm of the home, children's learning, everyday care and the small things that should not fall through the cracks.</p>
+        <div class="hero-actions"><a class="button" href="https://app.nua-home.com/?entry=home">Explore your home</a><a class="button button-quiet" href="#family">See a day with NuaHome</a></div>
+      </div>
+      <p class="hero-note">Designed around real people, not a surveillance dashboard.</p>
+    </section>
 
-  <h2>Alerts and Safety Mode</h2>
-  <p>Open Safety to enable the monitoring level you want. Open Me to control journey history, arrival and departure alerts, device health, supported app activity, device alerts and emergency escalation individually. iOS may ask for notification or location permission only when you choose a feature that needs it.</p>
+    <section class="intro" aria-labelledby="intro-title">
+      <p class="eyebrow">Home, held together</p>
+      <h2 id="intro-title">One calm place for the life happening around you.</h2>
+      <p>NuaHome can bring together approved household devices, room context, family routines, messages and personal support. It stays helpful by being specific about what is connected, who can see it and what is switched on.</p>
+    </section>
 
-  <h2>Camera, microphone and screen</h2>
-  <p>These are used only during a visible Vesta Together session. The recipient must accept an invitation before a live session starts. Either participant can stop it. Live sessions are not recorded by default.</p>
+    <section class="day" id="family" aria-labelledby="day-title">
+      <div class="section-heading"><p class="eyebrow">A day with NuaHome</p><h2 id="day-title">Useful before you ask. Quiet when you do not need it.</h2></div>
+      <ol class="timeline">
+        <li><span class="time">07:15</span><div><h3>Morning, without the scramble</h3><p>Bring together family routines, school reminders and a meal idea based on the preferences you choose to keep. A parent stays in charge of every suggestion.</p></div></li>
+        <li><span class="time">15:40</span><div><h3>Learning gets a place in the day</h3><p>With Lumi connected, a child can move from a home reminder into a focused learning session. Family members choose the goals, timing and encouragement style.</p></div></li>
+        <li><span class="time">18:20</span><div><h3>Everyone arrives differently</h3><p>Use the rooms, devices and sharing permissions you approve to coordinate the evening: a message to a room, a home-control request, or simply a better sense of what still needs doing.</p></div></li>
+        <li><span class="time">21:00</span><div><h3>Care continues without becoming intrusive</h3><p>Check-ins and safety routines can be tailored for a household, an older relative or a person with additional needs. Urgent help is always a human and emergency-services decision.</p></div></li>
+      </ol>
+    </section>
 
-  <h2>Vesta Social private circles</h2>
-  <p>Vesta Social is invitation-only: it has finite private circles rather than a public feed, public search or follower graph. The post composer shows the intended circle before publishing. You can leave a circle, and you can block or report abusive behaviour from the relevant people or circle controls. Messenger and calling remain unavailable until their separate safety and cryptographic release gates are complete.</p>
+    <section class="capabilities" aria-label="NuaHome capabilities">
+      <article><img src="assets/brand/nuahome-mark.svg" alt=""><p class="eyebrow">Family rhythm</p><h2>A home that helps everyone keep pace.</h2><p>Shared routines, voice requests, messages, connected devices and household context work together without pretending every moment needs an automation.</p></article>
+      <article id="learning" class="capability-highlight"><p class="eyebrow">Children and learning</p><h2>Support that grows with them.</h2><p>Build reading, homework, movement and screen-time routines with clear parent controls. Lumi learning can be connected deliberately, keeping learning goals and family context understandable.</p><a class="arrow-link" href="https://app.nua-home.com/?entry=home">Set up a learning rhythm <span aria-hidden="true">&#8594;</span></a></article>
+      <article><p class="eyebrow">Food and wellbeing</p><h2>Everyday food, less mental load.</h2><p>Keep meal preferences, household plans and shopping intentions in one place. Nutrition guidance is practical support, never medical advice, and remains editable by the household.</p></article>
+    </section>
 
-  <h2>Home is unreachable</h2>
-  <ul>
-    <li>Confirm the Vesta Home hub is switched on and connected.</li>
-    <li>Open the app and pull it to the foreground so it can refresh securely.</li>
-    <li>If the device link expired or was revoked, create a fresh companion QR in Vesta Home Settings.</li>
-    <li>Unlinking removes the phone's saved Vesta pairing and requires a new QR.</li>
-  </ul>
+    <section class="care" id="care" aria-labelledby="care-title">
+      <div><p class="eyebrow">Care that stays human</p><h2 id="care-title">A steadier way to stay close when someone needs more support.</h2></div>
+      <div class="care-copy"><p>NuaHome gives a household a shared, permission-led picture of the things they decide matter: check-ins, connected safety devices, room messages and care routines. It can help surface what needs attention, but it does not diagnose, replace a carer or make emergency decisions on its own.</p><a class="button button-dark" href="https://app.nua-home.com/?entry=home">Explore care settings</a></div>
+    </section>
 
-  <h2>Emergency use</h2>
-  <p>Vesta is not an emergency service and cannot guarantee delivery, location accuracy or external escalation. Contact local emergency services when immediate help is needed.</p>
+    <section class="portal" aria-labelledby="portal-title">
+      <div class="portal-kicker">Your private NuaHome</div><h2 id="portal-title">The public site tells the story. Your portal runs your home.</h2><p>After sign-in, each person sees only the households, rooms, messages and controls they have been invited to use. Household owners can manage membership, sharing and access from the portal.</p><a class="button" href="https://app.nua-home.com/?entry=home">Go to the NuaHome portal</a>
+    </section>
 
-  <h2>Contact</h2>
-  <p>Email <a href="mailto:bapardi@gmail.com">bapardi@gmail.com</a> with the app version, phone model, iOS version and a short description of the problem. Do not send pairing codes, passwords or private household recordings.</p>
+    <section class="trust" id="trust" aria-labelledby="trust-title">
+      <p class="eyebrow">Private by design</p><h2 id="trust-title">No invisible handoffs. No vague access.</h2>
+      <div class="trust-grid"><div><h3>Per-home permissions</h3><p>Access belongs to a named person, home and purpose. It can be changed or removed.</p></div><div><h3>Visible device choices</h3><p>Camera, location, microphone and sharing features are not silently enabled just because a phone is linked.</p></div><div><h3>Local-first boundaries</h3><p>Connected home devices and sensitive room signals remain subject to the household's local setup and chosen retention settings.</p></div></div>
+    </section>
+  </main>
 
-  <nav><a href="privacy.html">Privacy policy</a><a href="./">Return to Vesta</a></nav>
-</main>
+  <footer><a class="brand" href="#top"><img src="assets/brand/nuahome-mark.svg" alt=""><span>NuaHome</span></a><div><a href="support.html">Support</a><a href="privacy.html">Privacy</a><a href="ecosystem.html">Nua ecosystem</a></div><p>Open. Interlocked. In motion.</p></footer>
 </body>
 </html>

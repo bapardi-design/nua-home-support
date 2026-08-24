@@ -11,7 +11,7 @@ html::-webkit-scrollbar { display: none; }
 body { margin: 0; background: #0b1216; }
 main { width: min(760px, 100%); margin: 0 auto; padding: 32px 20px 64px; }
 header { display: flex; align-items: center; gap: 12px; padding-bottom: 24px; border-bottom: 1px solid #293a42; }
-.mark { width: 42px; height: 42px; display: grid; place-items: center; border-radius: 8px; background: #dbe9e4; color: #0d171b; font: 700 22px Georgia, serif; }
+.mark { width: 48px; height: 48px; display: block; object-fit: contain; flex: none; }
 header b, header span { display: block; }
 header span { color: #8da0a8; font-size: 12px; margin-top: 2px; }
 h1 { margin: 34px 0 8px; font-size: 32px; line-height: 1.15; letter-spacing: 0; }
