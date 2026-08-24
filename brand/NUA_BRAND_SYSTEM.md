@@ -3,8 +3,9 @@
 ## Decision
 
 `Nua` is the master brand. Product names are closed compounds with one capital
-product word: `NuaHome`, `NuaTalks`, `NuaConnects`, `NuaInforms`, and
-`NuaCares`.
+product word: `NuaHome`, `NuaTalks`, `NuaInforms`, `NuaCares`, `NuaCreates`,
+and `NuaInvests`. Circles, posts, Moments, messages and calls are capabilities
+inside `NuaTalks`; they are not a separate Connect product.
 
 The master mark is a lowercase `n` shaped as an open threshold. Its outer form
 never changes. A compact inner signal identifies the product without creating a
@@ -13,10 +14,12 @@ different logo family.
 ## Product signals
 
 - `NuaHome`: an open door and three voice bars.
-- `NuaTalks`: two conversation strokes and a reply point.
-- `NuaConnects`: three linked people or places.
+- `NuaTalks`: the Nest mark and private-conversation signal used consistently
+  for chats, calls, Circles, posts and Moments.
 - `NuaInforms`: a source point and three editorial lines.
 - `NuaCares`: a protected person and a calm check.
+- `NuaCreates`: the approved creation signal in its current product assets.
+- `NuaInvests`: the approved growth signal in its current product assets.
 
 ## Colour
 
