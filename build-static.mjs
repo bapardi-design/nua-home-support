@@ -6,3 +6,13 @@ await mkdir('dist', { recursive: true });
 for (const path of ['index.html', 'home.css', 'legal.css', 'privacy.html', 'support.html', 'ecosystem.html', 'ecosystem.css', 'assets', 'talk']) {
   await cp(path, `dist/${path}`, { recursive: true });
 }
+
+for (const retiredAsset of [
+  'nuaconnects-icon-192.png',
+  'nuaconnects-icon-512.png',
+  'nuaconnects-mark.svg',
+  'nuaconnects-social-1200x630.png',
+  'nuaconnects-wordmark.svg',
+]) {
+  await rm(`dist/assets/brand/${retiredAsset}`, { force: true });
+}
